@@ -1,0 +1,19 @@
+Illés Károly:Mészáros Laura:Hatvan:Pancsova utca 45:1975-11-26:620000:10000
+Róka Zoltán:Erdős Brigitta:Szeged:Vecsey Ferenc utca 92:1979-08-8:740000:10000
+Budai Dániel:Bakos Adrienn:Nyíregyháza:Tűztövis utca 58:1966-09-22:680000:5000
+Kovács Zoltán:Szabó Réka:Szeged:Festő utca 15:1981-07-18:250000:10000
+Bogdán György:Rigó Zita:Nyíregyháza:Szállító utca 23:1964-11-25:20000:5000
+Varga Tamás:Fényes Irén:Hatvan:Táborhegyi lépcső 83:1965-07-27:630000:10000
+Nagy Károly:Mészáros Magdolna:Szeged:Labdarózsa utca 65:1980-07-10:90000:0
+Rigó Ferenc:Kovács Margit:Győr:Farönk utca 20:1963-02-21:360000:10000
+Bogdán Béla:Rigó Kitti:Győr:Gát sétány 56:1972-04-21:40000:0
+Nagy György:Mészáros Katalin:Szolnok:Ditró utca 32:1971-10-25:430000:5000
+Takács György:Budai Anna:Győr:Tárnok utca 84:1964-10-7:560000:5000
+Fényes Zoltán:Pintér Alexandra:Szolnok:Bőség utca 39:1967-04-4:20000:5000
+Gyenge László:Bakos Ildikó:Hatvan:Szőlőműves utca 56:1954-10-19:340000:10000
+Nagy Tamás:Szántó Mária:Nyíregyháza:Zsemlékes út 97:1961-06-3:490000:5000
+Rigó Károly:Mészáros Ilona:Budapest:Ábrahám Géza utca 9:1987-07-20:30000:10000
+Bíró Béla:Pintér Adrienn:Budapest:Kövirózsa utca 58:1983-10-5:610000:5000
+Fekete Lajos:Bíró Zita:Budapest:Mezőtúr utca 88:1979-03-9:130000:10000
+Illés Tamás:Gyenge Szilvia:Győr:Fő utca 31:1961-01-24:60000:10000
+Bíró József:Bakos Melinda:Nyíregyháza:Gyökér utca 29:1978-03-4:440000:5000
